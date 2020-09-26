@@ -1,1 +1,3 @@
-# semongamee
+Hey!...I have created this simon game website.
+   It's a simple game of colours and tunes......
+   link to my site: https://ritika6060.github.io/semongamee/
